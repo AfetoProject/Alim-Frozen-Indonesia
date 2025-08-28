@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Alim Frozen Indonesia - Penyedia frozen food terpercaya dengan harga grosir, pengiriman cepat, dan promo menarik.">
+    <title>Alim Frozen Indonesia</title>
+</head>
+<body style="font-family: Arial, sans-serif; background-color: #fff8e1; color: #333; text-align: center; padding: 20px;">
+    
+    <h1 style="color:#2e7d32;">Selamat Datang di Alim Frozen Indonesia</h1>
+    <p><b>Belanja frozen food kini lebih mudah!</b></p>
+    <p>Kami menyediakan berbagai produk beku berkualitas tinggi seperti ayam, bakso, sosis, dan kebutuhan dapur lainnya.</p>
+    
+    <h2 style="color:#fbc02d;">Kenapa Pilih Kami?</h2>
+    <ul style="list-style: none;">
+        <li>✅ Harga grosir hemat</li>
+        <li>✅ Pengiriman cepat</li>
+        <li>✅ Promo menarik setiap hari</li>
+    </ul>
+    
+    <p>Unduh aplikasi kami di Google Play untuk belanja lebih mudah 📱</p>
+</body>
+</html>
